@@ -1,0 +1,30 @@
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.exe.config
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.exe
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.pdb
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csprojAssemblyReference.cache
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi_s_Circuits_App.Form1.resources
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi_s_Circuits_App.Properties.Resources.resources
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csproj.GenerateResource.cache
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csproj.CoreCompileInputs.cache
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.exe
+C:\Users\luigi\source\repos\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.pdb
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.exe.config
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.exe
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.pdb
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csprojResolveAssemblyReference.cache
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi_s_Circuits_App.Form1.resources
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi_s_Circuits_App.Properties.Resources.resources
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csproj.GenerateResource.cache
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csproj.CoreCompileInputs.cache
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.exe
+C:\Users\335850798\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.pdb
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.exe.config
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.exe
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\bin\Debug\Luigi's Circuits App.pdb
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csprojAssemblyReference.cache
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi_s_Circuits_App.Form1.resources
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi_s_Circuits_App.Properties.Resources.resources
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csproj.GenerateResource.cache
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.exe
+C:\Users\luigi\Desktop\Luigi's Circuits App\Luigi's Circuits App\obj\Debug\Luigi's Circuits App.pdb
